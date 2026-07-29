@@ -12,7 +12,15 @@
     "design-tokens"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Muhammad-Ahmad-Shaukat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Ahmad-Shaukat/color-contrast-npm.git"
+  },
+  "homepage": "https://github.com/Muhammad-Ahmad-Shaukat/color-contrast-npm#readme",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Ahmad-Shaukat/color-contrast-npm/issues"
+  },
   "type": "module",
   "sideEffects": false,
   "engines": {
